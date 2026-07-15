@@ -1,0 +1,36 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into between Acme Consulting LLC
+("Provider") and Northwind Retail Inc. ("Client").
+
+1. TERM
+This Agreement begins on January 1, 2026 and continues for an initial period of
+twelve (12) months ("Initial Term"). Unless either party provides written notice
+of non-renewal at least thirty (30) days before the end of the Initial Term, this
+Agreement will automatically renew for successive twelve (12) month periods
+("Auto-Renewal Clause").
+
+2. SERVICES
+Provider will deliver monthly IT infrastructure consulting, including system audits,
+security reviews, and on-call technical support during business hours (9am-6pm, Mon-Fri).
+
+3. FEES
+Client agrees to pay Provider a flat monthly fee of $8,500, invoiced on the first
+business day of each month. Late payments accrue interest at 1.5% per month.
+
+4. TERMINATION
+Either party may terminate this Agreement for material breach if the breach is not
+cured within fifteen (15) days of written notice. Client may terminate for convenience
+with sixty (60) days' written notice, subject to a early-termination fee equal to
+two (2) months of fees.
+
+5. CONFIDENTIALITY
+Both parties agree to keep confidential information disclosed during the engagement
+private for a period of three (3) years following termination of this Agreement.
+
+6. LIMITATION OF LIABILITY
+Provider's total liability under this Agreement shall not exceed the total fees paid
+by Client in the twelve (12) months preceding the claim.
+
+7. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Delaware.
